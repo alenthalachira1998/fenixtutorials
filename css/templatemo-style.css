@@ -466,48 +466,10 @@ https://templatemo.com/tm-516-known
   }
   #about
 {
-  background-image: url("../images/pexels-rfstudio-3825572.jpg");
   background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
 }
-
-
-  /*---------------------------------------
-      TEAM
-  -----------------------------------------*/
-  #team{
-    background-image: url(../images/sketch-3047721_1920.jpg);
-  }
-
-  .team-thumb {
-    background: #ffffff;
-    position: relative;
-    overflow: hidden;
-    text-align: left;
-  }
-
-  .team-info {
-    padding: 20px 30px;
-  }
-
-  .team-image img {
-    width: 100%;
-  }
-
-  .team-thumb .social-icon {
-    border-top: 1px solid #f0f0f0;
-    padding: 4px 20px 0 20px;
-  }
-
-  .team-thumb .social-icon li a {
-    background: #ffffff;
-    color: #252020;
-  }
-
-  .team-info h3 {
-    margin: 0;
-  }
 
 
   /*---------------------------------------
